@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Page
 
 You can use the [editor on GitHub](https://github.com/mkk355/Text_Classification/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
